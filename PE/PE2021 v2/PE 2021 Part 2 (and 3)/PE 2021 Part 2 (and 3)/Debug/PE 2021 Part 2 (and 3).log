@@ -1,0 +1,60 @@
+﻿  main.cpp
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(126,28): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(121,56): message : while compiling class template member function 'int BinarySearchTree<__int64>::_updateSST(TreeNode<T> *)'
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(117,12): message : see reference to function template instantiation 'int BinarySearchTree<__int64>::_updateSST(TreeNode<T> *)' being compiled
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(313,60): message : while compiling class template member function 'void BinarySearchTree<__int64>::_inOrderPrint(TreeNode<T> *)'
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(307,15): message : see reference to function template instantiation 'void BinarySearchTree<__int64>::_inOrderPrint(TreeNode<T> *)' being compiled
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(355,1): message : while compiling class template member function 'BinarySearchTree<__int64>::~BinarySearchTree(void)'
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(372,1): message : see reference to function template instantiation 'BinarySearchTree<__int64>::~BinarySearchTree(void)' being compiled
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(365,34): message : see reference to class template instantiation 'BinarySearchTree<__int64>' being compiled
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(108,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(100,59): message : while compiling class template member function 'int BinarySearchTree<__int64>::_updateHeight(TreeNode<T> *)'
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(96,15): message : see reference to function template instantiation 'int BinarySearchTree<__int64>::_updateHeight(TreeNode<T> *)' being compiled
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(121,56): message : while compiling class template member function 'int BinarySearchTree<__int64>::_updateSST(TreeNode<T> *)'
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(117,12): message : see reference to function template instantiation 'int BinarySearchTree<__int64>::_updateSST(TreeNode<T> *)' being compiled
+          with
+          [
+              T=__int64
+          ]
+G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\PE 2021 Part 2 (and 3)\BST.h(109,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=__int64
+          ]
+  PE 2021 Part 2 (and 3).vcxproj -> G:\My Drive\NUS\Sem 2\CS2040C\PE\PE2021 v2\PE 2021 Part 2 (and 3)\Debug\PE 2021 Part 2 (and 3).exe
